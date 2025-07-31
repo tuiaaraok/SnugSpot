@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.SnugSpot.WV68Application# bundle
+        bundle_identifier: com.SnugSpot.WV68Application # bundle
       vars:
         APP_ID:  6749011014 # APP ID here
       flutter: stable
